@@ -2,11 +2,9 @@
 
 Тема: Spring, работа с БД
 
- spring_database
-
 ## Для запуска приложения:
 
-java -jar target/spring-database-project-0.0.1-SNAPSHOT.jar
+mvn spring-boot:run
 
 ## Примеры работы программы
 
